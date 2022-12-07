@@ -406,6 +406,7 @@ deleteUser()
         sudo userdel $Name
     fi
     echo  -e "\n\nSucces $Name a ete supprimer \n\n"
+    echo  -e "\n\nSucces $Name a ete supprimer \n\n"
     displayMenu
 }
 ########################################################################
